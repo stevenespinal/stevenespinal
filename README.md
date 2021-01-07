@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![react logo](https://github.com/stevenespinal/stevenespinal/main/react.svg?raw=true)
+![react logo](/react.svg)
 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
