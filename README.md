@@ -34,8 +34,8 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 
 ## 💻 Relevant Projects
 
-- **Stulie – Collaborative Project Management Board:** A tool that significantly improves team productivity.
-- **Players Circle – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
+- **[Stulie]** (https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
+- **[Players Circle]** (https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
 
 ## 👨🏻‍🎓 Education
 
