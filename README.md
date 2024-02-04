@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Steven Espinal](logo.svg "Title")
 -->
-[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
-
 
 Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With a passion for developing scalable, high-performance web applications, I specialize in JavaScript, TypeScript, and React. My professional journey has been marked by continuous learning and collaboration, leading to significant user experience enhancements and application optimizations.
 
@@ -58,3 +56,6 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 - **Email:** stevenjesusespinal@gmail.com
 
 Thank you for visiting my GitHub profile. Let's collaborate and build something amazing together!
+
+
+[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
