@@ -1,4 +1,4 @@
-# Steven Espinal
+# Steven Espinal - I solve unique business problems with my code.
 
 <!--
 **stevenespinal/stevenespinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With a passion for developing scalable, high-performance web applications, I specialize in JavaScript, TypeScript, and React. My professional journey has been marked by continuous learning and collaboration, leading to significant user experience enhancements and application optimizations.
 
+<a href="https://stevenespinal.com" target="_blank"><img src="https://img.shields.io/badge/-View%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="View My Portfolio"></a>
+
+
 ## 💡 Skills
 
 - **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, Redux, Next.js
@@ -33,10 +36,10 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
 
 ## 💻 Relevant Projects
-
-- **[Stulie]** (https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
-- **[Players Circle]** (https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
-
+- **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
+- **[Players Circle](https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
+- **[Street Lines](https://streetlines.bet) - Latest bettings odds and lines at realtime:** Real-time lines all day long.
+  
 ## 👨🏻‍🎓 Education
 
 - **BS in Computer Science,** Western Governors University (Jan 2024 - Present)
