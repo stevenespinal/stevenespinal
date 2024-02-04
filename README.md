@@ -15,35 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Steven Espinal](logo.svg "Title")
 -->
-[![Steven's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
+[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
 
 
 Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With a passion for developing scalable, high-performance web applications, I specialize in JavaScript, TypeScript, and React. My professional journey has been marked by continuous learning and collaboration, leading to significant user experience enhancements and application optimizations.
 
-## Skills
+## 💡 Skills
 
 - **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, Redux, Next.js
 - **Databases & Cloud:** Firebase, MongoDB, AWS, Digital Ocean
 - **Tools & Others:** Git, GitHub, Scrum Agile methodology, Shopify Liquid, Prisma, Tailwind CSS, HTML5, Vercel
 
-## Experience
+## 🕰️ Experience
 
 - **BrightInsight, New York, NY:** Software Engineer (Oct 2022 - Present)
 - **Cazton, New York, NY:** Software Engineer (Jan 2022 – Oct 2022)
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
 
-## Relevant Projects
+## 💻 Relevant Projects
 
 - **Stulie – Collaborative Project Management Board:** A tool that significantly improves team productivity.
 - **Players Circle – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
 
-## Education
+## 👨🏻‍🎓 Education
 
 - **BS in Computer Science,** Western Governors University (Jan 2024 - Present)
 - **Computer Science,** BMCC (Aug 2020 – Aug 2021)
 - **Entrepreneurial Studies,** Baruch College (Aug 2017 – Aug 2020)
 
-## Certifications
+## 📃 Certifications
 
 - **Meta Back-End Developer Certificate,** Verified by Credly (Nov 2023)
 - **Meta Front-End Developer Certificate,** Verified by Credly (Nov 2023)
