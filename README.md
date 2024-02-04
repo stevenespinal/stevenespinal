@@ -23,9 +23,9 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 
 ## 💡 Skills
 
-- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, Redux, Next.js
-- **Databases & Cloud:** Firebase, MongoDB, AWS, Digital Ocean
-- **Tools & Others:** Git, GitHub, Scrum Agile methodology, Shopify Liquid, Prisma, Tailwind CSS, HTML5, Vercel
+- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, Redux, Next.js, Liquid, Tailwind CSS
+- **Databases & Cloud:** Firebase, MongoDB, Prisma, PostgreSQL, AWS, Digital Ocean, Vercel
+- **Tools & Others:** Git, GitHub, Bitbucket, Scrum Agile methodology
 
 ## 🕰️ Experience
 
