@@ -58,4 +58,4 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 Thank you for visiting my GitHub profile. Let's collaborate and build something amazing together!
 
 
-[![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
+[![Steven's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
