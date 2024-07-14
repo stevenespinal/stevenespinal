@@ -16,22 +16,26 @@ Here are some ideas to get you started:
 ![Steven Espinal](logo.svg "Title")
 -->
 
-Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With a passion for developing scalable, high-performance web applications, I specialize in JavaScript, TypeScript, and React. My professional journey has been marked by continuous learning and collaboration, leading to significant user experience enhancements and application optimizations.
+Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 years of experience. I love building web apps and am all about JavaScript, TypeScript, and React. I'm always learning and enjoy working with others to solve real-world business problems.
 
 <a href="https://stevenespinal.com" target="_blank"><img src="https://img.shields.io/badge/-View%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="View My Portfolio"></a>
 
 
 ## 💡 Skills
 
-- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, Redux, Next.js, Liquid, Tailwind CSS
-- **Databases & Cloud:** Firebase, MongoDB, Prisma, PostgreSQL, AWS, Digital Ocean, Vercel
-- **Tools & Others:** Git, GitHub, Bitbucket, Scrum Agile methodology
+- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, React Native, Redux, Next.js, Liquid, Tailwind CSS, Expo, Bootstrap
+- **Databases & Cloud:** Firebase, MongoDB, Prisma, PostgreSQL, AWS, Digital Ocean, Vercel, Supabase
+- **Tools & Others:** Git, GitHub, Bitbucket, Scrum Agile methodology, Test Driven Development, Chart.js
 
 ## 🕰️ Experience
 
 - **BrightInsight, New York, NY:** Software Engineer (Oct 2022 - Present)
-- **Cazton, New York, NY:** Software Engineer (Jan 2022 – Oct 2022)
+- **Cazton (Contract to Hire – BrightInsight), New York, NY:** Software Engineer (Jan 2022 – Oct 2022)
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
+
+## 📲 App Store
+- **[Daily Word Finder](https://apps.apple.com/us/app/daily-word-finder/id6479898966) – a mobile word search puzzle game featuring daily challenges with varying difficulty levels and a beautifully designed user interface.
+- **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
 
 ## 💻 Relevant Projects
 - **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
@@ -40,7 +44,7 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
   
 ## 👨🏻‍🎓 Education
 
-- **BS in Computer Science,** Western Governors University (Jan 2024 - Present)
+- **BS in Computer Science,** Western Governors University (Expected 2025)
 - **Computer Science,** BMCC (Aug 2020 – Aug 2021)
 - **Entrepreneurial Studies,** Baruch College (Aug 2017 – Aug 2020)
 
@@ -55,7 +59,4 @@ Hello there! I'm Steven, a Software Engineer based in Manhattan, New York. With 
 - **LinkedIn:** [Steven Espinal](https://www.linkedin.com/in/stevenespinal)
 - **Email:** stevenjesusespinal@gmail.com
 
-Thank you for visiting my GitHub profile. Let's collaborate and build something amazing together!
-
-
-[![Steven's github stats](https://github-readme-stats-rust-gamma-96.vercel.app/api?username=stevenespinal&count_private=true)](https://github.com/stevenespinal/github-readme-stats)
+Thank you for visiting my GitHub profile.
