@@ -34,8 +34,8 @@ Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
 
 ## 📲 App Store
-- **[Daily Word Finder](https://apps.apple.com/us/app/daily-word-finder/id6479898966) – a mobile word search puzzle game featuring daily challenges with varying difficulty levels and a beautifully designed user interface.
-- **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
+- **[Daily Word Finder](https://apps.apple.com/us/app/daily-word-finder/id6479898966) – Daily Word Finder):** a mobile word search puzzle game featuring daily challenges with varying difficulty levels and a beautifully designed user interface.
+- **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – Daily Wallet:** a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
 
 ## 💻 Relevant Projects
 - **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
