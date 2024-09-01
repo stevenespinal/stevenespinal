@@ -22,7 +22,7 @@ Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 
 - **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – Daily Wallet:** a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
 
 ## 💻 Relevant Projects
-- **[Image AI](https://image-ai-ebon-three.vercel.app) – Create Professional Designs:** A tool for creating social media graphics, presentations, promotional merchandise and websites..
+- **[Image AI](https://image-ai-ebon-three.vercel.app) – Create Professional Designs:** A tool for creating social media graphics, presentations, promotional merchandise and websites.
 - **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
 - **[Players Circle](https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
 - **[Street Lines](https://streetlines.bet) - Latest bettings odds and lines at realtime:** Real-time lines all day long.
