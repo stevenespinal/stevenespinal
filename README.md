@@ -1,21 +1,5 @@
 # Steven Espinal - I solve unique business problems with my code.
 
-<!--
-**stevenespinal/stevenespinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Steven Espinal](logo.svg "Title")
--->
-
 Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 years of experience. I love building web apps and am all about JavaScript, TypeScript, and React. I'm always learning and enjoy working with others to solve real-world business problems.
 
 <a href="https://stevenespinal.com" target="_blank"><img src="https://img.shields.io/badge/-View%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="View My Portfolio"></a>
@@ -38,6 +22,7 @@ Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 
 - **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – Daily Wallet:** a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
 
 ## 💻 Relevant Projects
+- **[Image AI](https://image-ai-ebon-three.vercel.app) – Create Professional Designs:** A tool for creating social media graphics, presentations, promotional merchandise and websites..
 - **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
 - **[Players Circle](https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
 - **[Street Lines](https://streetlines.bet) - Latest bettings odds and lines at realtime:** Real-time lines all day long.
@@ -57,6 +42,6 @@ Hey there! I'm Steven, a software engineer from Manhattan, New York with over 6 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Steven Espinal](https://www.linkedin.com/in/stevenespinal)
-- **Email:** stevenjesusespinal@gmail.com
+- **Email:** [Personal Email](mailto:stevenjesusespinal@gmail.com)
 
 Thank you for visiting my GitHub profile.
