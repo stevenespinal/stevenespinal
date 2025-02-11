@@ -13,7 +13,7 @@ Hey there! I'm Steven, a software engineer based in Hudson Yards, New York with 
 
 ## 🕰️ Professional Experience
 
-- **BrightInsight, New York, NY:** Software Engineer (Jan 2022 - Present)
+- **BrightInsight, New York, NY:** Software Engineer (Jan 2022 - Jan 2025)
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
 
 ## 📲 Apps on the App Store
