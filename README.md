@@ -13,7 +13,8 @@ Hey there! I'm Steven, a software engineer based in Hudson Yards, New York with 
 
 ## 🕰️ Professional Experience
 
-- **BrightInsight, New York, NY:** Software Engineer (Jan 2022 - Jan 2025)
+- **BrightInsight, New York, NY:** Software Engineer (Oct 2022 - Jan 2025)
+- **Cazton (Contract to Hire), New York, NY:** Software Engineer (Jan 2022 - Oct 2022)
 - **PLNETWORKS, New York, NY:** Software Engineer (Jun 2018 - Jan 2022)
 
 ## 📲 Apps on the App Store
@@ -21,10 +22,10 @@ Hey there! I'm Steven, a software engineer based in Hudson Yards, New York with 
 - **[Daily Wallet](https://apps.apple.com/us/app/dailywallet-midtown-tech-llc/id1606518867) – Daily Wallet:** a go to expense tracker without the extra noise of connecting sensitive information such as bank logins etc; best for those who want to keep track of simple manual income / expenses.
 
 ## 💻 Highlighted Projects
-- **[Who's That Pokemon?](https://whothatpokemon.com) – Interactive Guessing Game:** Challenge yourself to identify Pokémon silhouettes in a fun, engaging way.
+- **[Learn to Code](https://learn.midtown.technology) – Interactive coding environment:** Real time code execution, terminal access, and live preview capabilities directly within the browser.
 - **[Stulie](https://stulie.com) – Collaborative Project Management Board:** A tool that significantly improves team productivity.
-- **[Players Circle](https://iloveto.bet) – Dynamic Sports News & Live Scores Platform:** A comprehensive platform for sports enthusiasts.
 - **[Street Lines](https://streetlines.bet) - Latest bettings odds and lines at realtime:** Real-time lines all day long.
+- **[Who's That Pokemon?](https://whothatpokemon.com) – Interactive Guessing Game:** Challenge yourself to identify Pokémon silhouettes in a fun, engaging way.
 - **[Image AI](https://image-ai-ebon-three.vercel.app) – Create Professional Designs:** A tool for creating social media graphics, presentations, and promotional merchandise.
 
   
